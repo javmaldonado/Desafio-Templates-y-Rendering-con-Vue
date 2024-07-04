@@ -9,7 +9,7 @@ export default defineConfig({
     vue(),
     
   ],
-  base:"http//javmaldonado.github.io/Desafio-TemplatesYRenderingConVue",
+ 
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
