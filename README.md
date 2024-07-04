@@ -12,3 +12,9 @@ booleanos del estado.
 dinámica de elementos.
 
 4.Usar v-show para mostrar u ocultar la figura.
+
+
+Deploy:
+https://desafio-templates-y-rendering-con-vue.vercel.app/
+
+Pregunta: No hay manera de deployar con code
