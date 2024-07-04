@@ -17,4 +17,4 @@ dinámica de elementos.
 Deploy:
 https://desafio-templates-y-rendering-con-vue.vercel.app/
 
-He intentado varias formas de deployar viendo video pero ninguno me ha dado resultado.
+He intentado varias formas de deployar con github pages viendo videos pero ninguno me ha dado resultado
